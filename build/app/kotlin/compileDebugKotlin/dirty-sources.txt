@@ -1,0 +1,1 @@
+/Users/Mobile Application/instagram_clone/android/app/src/main/kotlin/com/example/instagram_clone/MainActivity.kt
